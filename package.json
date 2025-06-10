@@ -1,0 +1,35 @@
+{
+  "name": "namsaste-react",
+  "version": "1.0.0",
+  "description": "Mynewproject",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "anusha",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnushaSachin/Namsaste-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AnushaSachin/Namsaste-react/issues"
+  },
+  "homepage": "https://github.com/AnushaSachin/Namsaste-react#readme",
+  "devDependencies": {
+    "@types/react-dom": "^19.1.6",
+    "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
